@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47cfoxtdianxchhw1a7icv3tq6whhcevs2riewm53c&rid=giphy.gif&ct=g" align="right" width="300" height="250">
+<img src="https://media0.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47cfoxtdianxchhw1a7icv3tq6whhcevs2riewm53c&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### <strong><mark style="color:blueviolet"> Hi there, I'm Sena.🙇‍♀️</strong>
 
