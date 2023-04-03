@@ -1,16 +1,31 @@
-### Hi there 👋
+<img src="https://media0.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e47cfoxtdianxchhw1a7icv3tq6whhcevs2riewm53c&rid=giphy.gif&ct=g" align="right" width="300" height="150">
 
-<!--
-**senaakat/senaakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <strong><mark style="color:blueviolet"> Hi there, I'm Sena.🙇‍♀️</strong>
 
-Here are some ideas to get you started:
+<ul>
+<li ><u><em>📚 I'm a Student</u></li>
+<li ><u>💥 I'm currently learning JAVA,HTML,C and CSS.</u></li>
+<li ><u>🍃 Computer Engineer</em></u></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font><code>Reach out to me</code></font><br>
+
+<img height="25" width="32" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" /><strong style="color:gray"> [Github]</strong><br><br>
+
+
+<img height="25" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" /><strong style="color:gray">[Linkedin]</strong><br><br>
+
+<img height="25" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align="left" /><strong style="color:gray">[Instagram]</strong><br>
+
+[Github]:https://github.com/senaakat
+[Linkedin]:https://www.linkedin.com/in/sena-akat-9baaa0226/
+[Instagram]:https://www.instagram.com/sena_akat/
+
+### Tech I use
+<img height="25" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
+<img height="25" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="25" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img height="25" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="25" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+
