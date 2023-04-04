@@ -4,7 +4,7 @@
 
 <ul>
 <li ><u><em>📚 I'm a Student</u></li>
-<li ><u>💥 I'm currently learning JAVA,HTML,C and CSS.</u></li>
+<li ><u>💥 I'm currently learning JAVA,HTML,C and CSS,DevOps.</u></li>
 <li ><u>🍃 Computer Engineer</em></u></li>
 </ul>
 
