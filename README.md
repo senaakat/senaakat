@@ -1,4 +1,6 @@
-<img src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c#file-coding-gif" align="right" width="400" height="250">
+
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<br>
 
 ### <strong><mark style="color:blueviolet"> Hi there, I'm Sena.🙇‍♀️</strong>
 
