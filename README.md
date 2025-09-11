@@ -3,9 +3,9 @@
 ### <strong><mark style="color:blueviolet"> Hi there, I'm Sena.🙇‍♀️</strong>
 
 <ul>
-<li ><u><em>📚 I'm a Student</u></li>
-<li ><u>💥 I'm currently learning JAVA,HTML,C and CSS,DevOps.</u></li>
-<li ><u>🍃 Computer Engineer</em></u></li>
+<li ><u><em>📚 I'm a FullStack Developer</u></li>
+<li ><u>💥 I'm a Web Developer.</u></li>
+<li ><u>🍃 I'm a Computer Engineer</em></u></li>
 </ul>
 
 <font><code>Reach out to me</code></font>
